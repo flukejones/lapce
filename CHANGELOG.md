@@ -6,6 +6,7 @@
 
 ### Bug Fixes
 - [#3203](https://github.com/lapce/lapce/pull/3203): Fallback to default theme is theme key is not found
+- [2407](https://github.com/lapce/lapce/pull/2407): Add support for slint UI language
 
 ## 0.4.0
 
